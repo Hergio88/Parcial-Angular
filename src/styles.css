@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url('./assets/imagen/rick.jpg'); /* Ajusta la ruta según donde hayas guardado tu imagen */
+  background-size: cover; /* Para asegurarse de que la imagen cubra toda la página */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+
+

@@ -1,0 +1,15 @@
+.card {
+  margin-top: 80px;
+}
+
+.status-alive {
+  color: green;
+}
+
+.status-dead {
+  color: red;
+}
+
+.status-unknown {
+  color: yellow;
+}
